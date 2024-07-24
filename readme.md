@@ -1,4 +1,4 @@
-# Bridge-to-Turbin3
+# Turbin3-Assignment
 
 Bridge-to-Turbin3 is a TypeScript program designed to guide us through the final project of riseIn Turbin3 cohort.
 
