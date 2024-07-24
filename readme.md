@@ -1,6 +1,6 @@
 # Turbin3-Assignment
 
-Bridge-to-Turbin3 is a TypeScript program designed to guide us through the final project of riseIn Turbin3 cohort.
+This is a TypeScript program that is like an assignment/pre-req for Turbin3 Cohort.
 
 ## Table of Contents
 
